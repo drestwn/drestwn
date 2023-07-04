@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @drestwn
-- 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning JS
+- 👋 Hi, I’m Andre
+- 🌱 I’m currently Angular
 
 <!---
 drestwn/drestwn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
