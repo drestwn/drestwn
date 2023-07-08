@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andre
-- 🌱 I’m currently Angular
+- 🌱 I’m currently expanding my portfolio. Feel free to check my website.
 
 <!---
 drestwn/drestwn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
